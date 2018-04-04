@@ -1,0 +1,23 @@
+Goodman Groceries 
+
+******** BILL *********
+Butter : $4.58
+
+Apples : $2.33
+
+Apples : $2.33
+
+Soda : $4.20
+
+Milk : $3.25
+
+Bread : $2.50
+
+Bread : $2.50
+
+Bread : $2.50
+
+***********************
+Items Purchased: 8
+Total: $24.19
+Customer: Ethan Sutherland

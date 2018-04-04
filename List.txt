@@ -1,0 +1,7 @@
+Bread 2.50
+Soda 4.20
+Milk 3.25
+Cheese 3.99
+Chicken 2.50
+Apples 2.33
+Butter 4.58
